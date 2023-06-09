@@ -1,0 +1,10 @@
+TypeScript is an awesome programming language!
+Do you like high five?
+phi is a math symbol
+HIRO 88 is known for its grand entrances, award-winning menu, wine list & sushi.
+You can test your program in Docker.
+I couldn't get this printer to work.
+As of June 1, 2019, HIROSHIMA 88 had an estimated population of 1,199,391.
+I wouldn't not procrastinate with starting to work on this project.
+Hi, what's up?
+This class is getting very popular, don't you think? 
